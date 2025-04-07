@@ -1,4 +1,23 @@
-### This repository is no longer maintained!
+# Node.js Demo App - CI/CD with DockerHub & GitHub Actions 🚀
+
+## 📌 Task Overview
+
+This project demonstrates setting up a CI/CD pipeline using **GitHub Actions** to automatically build and push a **Node.js Docker image** to **DockerHub**.
+
+---
+
+## ⚙️ Tech Stack Used
+
+- Node.js  
+- Docker & DockerHub  
+- GitHub Actions  
+- Express.js  
+
+---
+
+## 📂 Project Structure
+
+
 
 **For the most up to date test app to get you started on Heroku, head on over to [`node-js-getting-started`](https://github.com/heroku/node-js-getting-started).**
 
