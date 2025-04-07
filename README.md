@@ -1,21 +1,29 @@
-# Node.js Demo App - CI/CD with DockerHub & GitHub Actions 🚀
+# Node.js Demo App - CI/CD with GitHub Actions
 
-## 📌 Task Overview
+## 👩‍💻 Created by Shireesha Banothu
 
-This project demonstrates setting up a CI/CD pipeline using **GitHub Actions** to automatically build and push a **Node.js Docker image** to **DockerHub**.
-
----
-
-## ⚙️ Tech Stack Used
-
-- Node.js  
-- Docker & DockerHub  
-- GitHub Actions  
-- Express.js  
+### 📌 Objective:
+Automate code deployment using a CI/CD pipeline with GitHub Actions and Docker.
 
 ---
 
-## 📂 Project Structure
+### 🧰 Tools Used:
+- GitHub & GitHub Actions
+- Node.js
+- Docker & DockerHub
+
+---
+
+### ⚙️ Workflow Steps:
+1. Cloned a sample Node.js app.
+2. Created a Dockerfile to containerize the app.
+3. Pushed code to GitHub repo.
+4. Created GitHub Actions workflow (`.github/workflows/ci.yml`) to:
+   - Run tests (if any)
+   - Build Docker image
+   - Push to DockerHub
+5. Verified app using:
+
 
 
 
